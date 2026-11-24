@@ -5,7 +5,7 @@ Browser extension for the Home Assistant integration [Stellantis Vehicles](https
 ## Install
 The extension is not in a store. You load it from a folder.
 
-**Get the files.** Download `dist/stellantis-oauth-code-<version>.zip` and extract it to a folder you keep, for example `Documents\stellantis-oauth-code`. You can also clone this repo. Chromium browsers load the extension from that folder, so don't delete or move it later.
+**Get the files.** Download `stellantis-oauth-code-<version>.zip` from [Releases](https://github.com/nomnomnomnl/Plugin-Stellantis-Authenticator/releases/latest) and extract it to a folder you keep, for example `Documents\stellantis-oauth-code`. You can also clone this repo. Chromium browsers load the extension from that folder, so don't delete or move it later.
 
 ### Chrome, Edge, Brave, Chromium
 1. Open the extensions page:
@@ -50,7 +50,7 @@ Use a computer. On a phone with the brand app installed, the app intercepts the 
 Na het inloggen op de officiële loginpagina van Peugeot, Citroën, DS, Opel of Vauxhall toont deze extensie de OAuth-code met een kopieerknop.
 
 ### Installeren
-Pak de zip uit `dist/` uit in een map die je bewaart, of clone deze repo.
+Download de zip via [Releases](https://github.com/nomnomnomnl/Plugin-Stellantis-Authenticator/releases/latest) en pak hem uit in een map die je bewaart, of clone deze repo.
 
 - **Chrome, Edge, Brave, Chromium:** open `chrome://extensions` (Edge: `edge://extensions`, Brave: `brave://extensions`). Zet **Ontwikkelaarsmodus** aan (Edge: in de zijbalk links), klik **Uitgepakte extensie laden** en kies de map met `manifest.json`. Verplaats of verwijder die map daarna niet.
 - **Firefox (121+):** open `about:debugging#/runtime/this-firefox`, klik **Tijdelijke add-on laden…** en kies `manifest.json`. Firefox verwijdert de add-on bij afsluiten, dus laad hem opnieuw vlak voor het inloggen.
