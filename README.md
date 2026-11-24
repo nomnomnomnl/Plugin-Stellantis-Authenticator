@@ -2,6 +2,8 @@
 
 Browser extension for the Home Assistant integration [Stellantis Vehicles](https://github.com/andreadegiovine/homeassistant-stellantis-vehicles). After you log in on the official Peugeot, Citroën, DS, Opel or Vauxhall login page, it shows the OAuth code with a copy button. No more devtools.
 
+![The page that shows the code, with a copy button](docs/img/OAuthCopyPage.png)
+
 ## Install
 The extension is not in a store. You load it from a folder.
 
