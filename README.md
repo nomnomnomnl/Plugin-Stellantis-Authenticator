@@ -46,6 +46,9 @@ Use a computer. On a phone with the brand app installed, the app intercepts the 
 - Chrome/Edge: `chrome://extensions` → Developer mode → *Load unpacked* → this folder.
 - Firefox: `about:debugging` → *Load Temporary Add-on* → `manifest.json`.
 
+## License
+[MIT](LICENSE) © 2026 nomnomnomnl
+
 ---
 
 ## Nederlands
@@ -63,3 +66,6 @@ Download de zip via [Releases](https://github.com/nomnomnomnl/Plugin-Stellantis-
 3. Klik op **Code kopiëren** en plak de code in het veld.
 
 Je wachtwoord typ je alleen op de officiële pagina. De extensie slaat niets op en verstuurt niets.
+
+### Licentie
+[MIT](LICENSE) © 2026 nomnomnomnl
