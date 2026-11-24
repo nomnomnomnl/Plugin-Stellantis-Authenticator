@@ -1,0 +1,9 @@
+{
+  "extName": { "message": "Stellantis OAuth code for Home Assistant" },
+  "extDescription": { "message": "Shows the OAuth code after you log in to Peugeot, Citroën, DS, Opel or Vauxhall, ready to paste into Home Assistant." },
+  "pageIntro": { "message": "You are logged in. Copy this code and paste it into Home Assistant." },
+  "pageNoCode": { "message": "No code found. In Home Assistant, choose manual mode, open the login link shown there and log in; this page then opens by itself." },
+  "pageHint": { "message": "Paste it in the “Stellantis Vehicles” setup, manual mode step. The code works only once and expires within minutes; if it fails, log in again." },
+  "copy": { "message": "Copy code" },
+  "copied": { "message": "Copied ✓" }
+}
